@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
+opa, beleza? 🤝
 **jessicakaspercampos/jessicakaspercampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Bem vindos ao meu perfil! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 / Estou me desenvolvendo na linguagem JavaScript.
+
+🧑‍🏫 / Sou estudante do Alura.
+
+📝 / utilizo esse espaço para aprendizado.
+
+
+
+
+![](https://tenor.com/pt-BR/view/yoyagif-chile-gif-twitter-reaction-gif-21218231)
