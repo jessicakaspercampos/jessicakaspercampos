@@ -10,7 +10,4 @@ Bem vindos ao meu perfil! 😊
 
 📝 / utilizo esse espaço para aprendizado.
 
-
-
-
-![](https://tenor.com/pt-BR/view/seumadruga-chaves-danca-dancando-dancinha-gif-5903103)
+![](https://tenor.com/pt-BR/view/kiko-frederico-kiko-frederico-dona-florinda-chaves-gif-15083172)
