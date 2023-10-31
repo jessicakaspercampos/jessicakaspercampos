@@ -7,4 +7,4 @@ Bem vindos ao meu perfil! 😊
 📚 / Estou me desenvolvendo na linguagem JavaScript.
 🧑‍🏫 / Sou estudante do Alura.
 📝 / utilizo esse espaço para aprendizado.
-![](https://tenor.com/pt-BR/view/kiko-frederico-kiko-frederico-dona-florinda-chaves-gif-15083172)
+![](https://media.tenor.com/lK13vujG0PAAAAAd/vontade-chaves.gif)
